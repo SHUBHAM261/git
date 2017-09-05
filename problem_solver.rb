@@ -1,4 +1,6 @@
 class ProblemSolver
-end
-class Anewline
+  def solve_harder_problem
+  end
+  def solve_harder_problem
+  end
 end
